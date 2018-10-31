@@ -1,0 +1,17 @@
+.videoBox {
+  padding-top: 50px;
+}
+
+.header {
+  height: 120%;
+  overflow-y: hidden;
+}
+
+.videoCard {
+  padding: 5px;
+}
+
+header {
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
